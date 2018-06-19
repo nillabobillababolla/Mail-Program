@@ -1,0 +1,15 @@
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\bin\Debug\MailProgram.exe.config
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\bin\Debug\MailProgram.exe
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\bin\Debug\MailProgram.pdb
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\bin\Debug\MailProgram.xml
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\bin\Debug\OpenPop.dll
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\obj\Debug\MailProgram.vbprojResolveAssemblyReference.cache
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\obj\Debug\MailProgram.Form1.resources
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\obj\Debug\MailProgram.Resources.resources
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\obj\Debug\MailProgram.vbproj.GenerateResource.Cache
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\obj\Debug\MailProgram.vbproj.CoreCompileInputs.cache
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\obj\Debug\MailProgram.exe
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\obj\Debug\MailProgram.xml
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\obj\Debug\MailProgram.pdb
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\bin\Debug\SmtpServer.dll
+C:\Users\samet\Documents\Visual Studio 2017\Projects\MailProgram\MailProgram\obj\Debug\MailProgram.FormGonder.resources
